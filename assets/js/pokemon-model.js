@@ -5,4 +5,3 @@ class Pokemon {
     types = [];
     photo;
 }
-// export default Pokemon;
